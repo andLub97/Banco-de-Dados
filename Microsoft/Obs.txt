@@ -1,0 +1,11 @@
+baixar sql server e ssms
+
+baixar a base de dados: contoso -> facilmente obtido na internet
+
+caso o ssms não conecte com o pc, iniciar o serviço do sql server manualmente pode resolver o problema
+################
+banco de dados  ->
+restaurar bd (botão direito do mouse)
+dispositivo  -> ...
+adicionar -> localizar o arquivo  .bak
+ok
